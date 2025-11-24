@@ -96,6 +96,3 @@ The implementation includes:
 ## Files Included
 - `exectime.c` - Main implementation file
 - `Makefile` - Modified xv6 Makefile (ensure `_exectime\` is added to `UPROGS`)
-
-## License
-This project is created for educational purposes as part of operating systems coursework.
